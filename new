@@ -1,0 +1,68 @@
+The CME Group offers a comprehensive suite of tools and information for participants in the livestock markets. Here are some key facts about these markets and CME Group's offerings:
+
+**1. CME Group's Role and Market Offerings**
+*   **Derivatives Marketplace:** CME Group is the **world's leading derivatives marketplace**.
+*   **Exchange Brand:** It has been named the most valuable exchange brand by *Brand Finance* for 11 consecutive years.
+*   **Designated Contract Markets (DCMs):** CME Group comprises four DCMs: CME, CBOT, NYMEX, and COMEX, each with its own rules and product listings.
+*   **Historical Data and Analytics:** They provide real-time and historical market data, including solutions for accessing, querying, and sharing this data through Google Analytics Hub and DATAMINE.
+*   **Educational Resources:** CME Group offers educational materials, a customisable pro-level Trading Simulator, and monthly Trading Challenges to help traders elevate their skills. They also provide clearing advisories and solutions for Uncleared Margin Rule (URM) challenges.
+
+**2. Livestock Contracts and Their Characteristics**
+*   **Introduction:** Livestock futures began trading at CME Group in 1964 with the Live Cattle futures contract, followed by Lean Hog futures in 1966 and Feeder Cattle futures in 1971. Options on Livestock futures were introduced in 1984.
+*   **Live Cattle Futures:**
+    *   **Purpose:** Allows feedlot operators to hedge against price declines before selling cattle for processing, and meat packers to manage price increases or protect profit margins for beef shipments.
+    *   **Units & Increments:** Trade in units of **40,000 pounds** and in minimum price increments of **$10.00**.
+    *   **Listing:** Listed for trading in even months: February, April, June, August, October, and December.
+    *   **Settlement:** **Physically-delivered** futures contract, requiring delivery of live steers meeting specific USDA grade and quantity standards.
+*   **Feeder Cattle Futures:**
+    *   **Purpose:** Allows producers to hedge against price declines between birth and sale to feedlots, and feedlot operators to hedge against price increases before purchasing cattle. Feeder cattle are weaned calves weighing 600-800 pounds, fed aggressively to reach 1100-1400 pounds as live cattle.
+    *   **Units & Increments:** Trade in units of **50,000 pounds** and in minimum price increments (ticks) of **$12.50**.
+    *   **Listing:** Listed for trading in January, March, April, May, August, September, October, and November.
+    *   **Settlement:** Settled in **cash** at expiration, based on the CME Feeder Cattle Index on the last trading day.
+*   **Lean Hog Futures:**
+    *   **Purpose:** Allows hog producers and packers to manage the risk of adverse price movements. Lean hogs are ready for processing at about 275 pounds, yielding approximately 155 pounds of lean meat per 200-pound carcass.
+    *   **Units & Increments:** Trade in units of **40,000 pounds of hog carcasses** and in minimum price increments of **$10.00**.
+    *   **Listing:** Listed in February, April, May, June, July, August, October, and December.
+    *   **Settlement:** Settled in **cash** at expiration, based on the CME Lean Hog Index on the last trading day.
+*   **Options:** Options on Livestock futures provide additional flexibility for hedgers and speculators. Livestock options are traded both electronically on CME Globex and via open outcry on the exchange floor.
+
+**3. Market Dynamics and Price Influences**
+*   **Economic Factors:** Livestock prices are influenced by various economic factors as cattle and hogs must be brought to market timely due to their inability to be stored like grain.
+*   **Key Fundamentals:** The key fundamentals impacting the livestock market include **production, supply and demand, the livestock cycle, and seasonality**.
+*   **Production Cycle:** This estimates the quantity of animals available from birth to supermarket, using USDA data on litter sizes, inventory, imports/exports, and commercial production. Hog cycles average four years, while cattle cycles last about 10 years.
+    *   **Expansion Phase:** Increased prices encourage producers to retain female animals, reducing supply and further increasing prices, eventually leading to oversupply and price declines.
+    *   **Contraction Phase:** Producers cull herds, sending additional females to market, which can increase supply and further decrease prices.
+*   **Supply Factors:** Market changes, input costs (especially animal feed like corn and soybeans), weather (slowed weight gains, death loss, movement impediments), disease, prices of substitute goods (e.g., beef for pork), prices of joint products (e.g., beef spareribs affecting beef supply), and institutional factors (government programs, interest rates) all influence supply.
+*   **Demand Factors:** Population size, distribution, income, prices of substitute or complementary products (e.g., poultry), and changing consumer preferences (including international attitudes towards U.S. meat exports) affect demand for livestock.
+*   **Seasonality:** Trends in supply and demand are affected by predictable yearly factors like calving and farrowing seasons, summer grilling, and holiday demands (e.g., ham for Easter). Seasonal low prices often occur when animals are brought to market, and high prices during feeding months when supply of market-ready animals is lowest.
+
+**4. Hedging and Risk Management**
+*   **Purpose of Hedging:** Hedging is the management of price risks inherent in the sale or purchase of livestock and meat products, transferring risk from those seeking to reduce it to speculators willing to assume it. It provides peace of mind by managing risk.
+*   **Hedging Principle:** It involves taking a position in the futures or options market opposite one's current cash market position, as cash and futures prices tend to move together, balancing gains or losses.
+*   **Types of Hedgers:**
+    *   **Short Hedgers:** Need protection against declining prices (e.g., hog farmers, cow/calf producers, feedlot operators, exporters). They sell futures to lock in a selling price.
+    *   **Long Hedgers:** Need protection against rising prices (e.g., feedlot operators purchasing feeder cattle, meat packers, importers). They buy futures to lock in a purchase price.
+*   **Futures Strategies:**
+    *   **Selling Futures (Short Hedge):** Protects against falling prices. A hog producer selling October Lean Hog futures at $65 with a $5 under basis aims to lock in a $60 selling price. If prices fall to $60, a $5 gain on futures offsets a lower cash price, maintaining the $60 net. If prices rise, the producer still nets $60, relinquishing higher cash profit for price protection.
+    *   **Buying Futures (Long Hedge):** Protects against rising prices. A feedlot operator buying March Feeder Cattle futures at $140 with a $2 over basis aims to lock in a $142 purchase price. If prices rise to $148, an $8 gain on futures offsets a higher cash price, maintaining the $142 net. If prices fall, the operator still nets $142, relinquishing lower cash price opportunity for price protection.
+*   **Options Strategies:** Options offer price protection with flexibility, allowing hedgers to benefit from favorable market moves.
+    *   **Buying Call Options:** Establishes a **maximum or ceiling purchase price** while retaining the opportunity to buy at lower prices if the market declines. The cost is the premium paid, which is also the maximum loss.
+    *   **Buying Put Options:** Establishes a **minimum or floor selling price** while retaining the opportunity to sell at higher prices if the market rises.
+    *   **Buying Call & Selling Put (Long Hedgers):** Creates a **buying price range** at a reduced net premium cost. The call sets a ceiling price, and the put sets a floor price. The premium from selling the put helps finance the call. This strategy offers upside protection and the ability to benefit from lower prices.
+    *   **Buying Put & Selling Call (Short Hedgers):** Creates a **selling price range** at a reduced net premium cost. The put sets a floor price, and the call sets a ceiling price. The premium from selling the call helps finance the put. This strategy offers downside protection and the ability to benefit from higher prices.
+*   **Speculators:** Facilitate hedging by taking the opposite side of commercial trades, providing market liquidity in anticipation of profit from price changes.
+
+**5. Basis**
+*   **Definition:** The **difference between the cash price and the futures price** (Cash Price - Futures Price). It can be positive (over) or negative (under).
+*   **Calculation Factors:** Local cash prices differ from futures prices due to adjustments for quality, location, transportation, and local supply and demand. The futures price used for calculation should be for the contract month closest to the planned physical transaction.
+*   **Importance:**
+    *   Helps determine whether to use futures for risk management, when to initiate/close positions, and who to buy/sell from.
+    *   **Significantly affects the final outcome of a hedge** in terms of the ultimate price paid or received.
+*   **Basis Strength/Weakness:**
+    *   **Strengthening Basis:** Becomes more positive or less negative.
+        *   **Benefits Short Hedgers:** Increases their net selling price.
+        *   **Hurts Long Hedgers:** Increases their net purchase price.
+    *   **Weakening Basis:** Becomes more negative or less positive.
+        *   **Benefits Long Hedgers:** Lowers their net purchase price.
+        *   **Hurts Short Hedgers:** Decreases their net selling price.
+*   **Basis Risk:** Hedging with futures involves trading price risk for basis risk, which is typically much lower than price risk, making it a favourable trade-off for hedgers. Maintaining historical basis records is crucial for realistic expectations.
